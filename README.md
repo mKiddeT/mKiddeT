@@ -21,7 +21,6 @@ You can contact me on  <a href="https://www.linkedin.com/in/mikkel-kidde-thomsen
   <code><a href="https://git-scm.com/"><img height="30" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></a></code>
   <code><a href="https://unity.com/"><img height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png"></a></code>
   <code><a href="https://www.docker.com/"><img height="30" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"></a></code>
-  <code><a href="https://kubernetes.io/"><img height="30" src="https://iconape.com/wp-content/files/qx/371062/svg/371062.svg"></a></code>
 </p>  
 
 <br><br>
