@@ -1,7 +1,8 @@
 ## Hi, I'm Mikkel 👋
 
 I'm a software engineer with a BSc in Software from Aalborg University.  
-I've been programming for around 7 years, and started of by developing video games using Java and with Unity using C#, afterwhich I became more interested in programming overall and have ever since been expanding my knowledge and skills even further. If you would like to know more, you can do so here: https://mkidde-dev.vercel.app/
+I've been programming for around 7 years, and started of by developing video games using Java and with Unity using C#, afterwhich I became more interested in programming overall and have ever since been expanding my knowledge and skills even further. If you would like to know more, you can do so here: https://mkidde-dev.vercel.app/ 
+<br>
 At the moment I'm working as a developer at Netcompany.
 
 You can contact me on  <a href="https://www.linkedin.com/in/mikkel-kidde-thomsen/"><img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/320px-LinkedIn_Logo.svg.png"></a> if you have any questions, or want to get in touch. ✉
